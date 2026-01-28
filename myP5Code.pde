@@ -15,7 +15,21 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+textSize(50);
+fill(60,100,0);
+text("Best Foods",150,100)
 
+textSize(20);
+fill(6,10,100);
+text("Sandwiches",150,150)
+
+textSize(20);
+fill(6,10,100);
+text("Burritos",150,200)
+
+textSize(20);
+fill(6,10,100);
+text("A Good Steak Salad",150,250)
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
